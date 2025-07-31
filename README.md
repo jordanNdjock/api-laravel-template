@@ -1,14 +1,15 @@
-# 📦 LJ Laravel Template V1
+# 📦 LJ Laravel API Template V1
 
 Un template Laravel pour démarrer rapidement.
 
 ## 🚀 Fonctionnalités
 - Réponses JSON 
-- Authentification générique 
-- ...
+- Authentification générique  avec Sanctum
+- Documentation configurée avec Swagger
 
 ## 🛠️ Technologies utilisées
 - Framework : Laravel
+- Librairie : L5-Swagger
 
 ## 📦 Utilisation
 ```bash
